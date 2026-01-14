@@ -34,27 +34,3 @@
    source venv/bin/activate
    python main.py
    ```
-
-## Testing Before Submission
-
-Test all features:
-- Market orders (BUY/SELL)
-- Limit orders
-- Stop-Limit orders
-- View balance
-- View positions
-- Cancel orders
-
-All activity is logged to `logs/` directory.
-
-## What to Submit
-
-✉️ Send to: saami@bajarangs.com, nagasai@bajarangs.com, chetan@bajarangs.com  
-📧 CC: sonika@primetrade.ai  
-📝 Subject: "Junior Python Developer – Crypto Trading Bot"
-
-Include:
-1. Resume
-2. GitHub repository link
-3. Log files from `logs/` directory
-4. Brief description of features implemented
