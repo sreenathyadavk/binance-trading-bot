@@ -264,20 +264,6 @@ Each log entry includes:
 - Make sure virtual environment is activated: `source venv/bin/activate`
 - Reinstall dependencies: `pip install -r requirements.txt`
 
-## 🎯 Testing Checklist
-
-Before submission, test the following:
-
-- [x] Bot initializes successfully with valid credentials
-- [x] Market order (BUY and SELL) executes correctly
-- [x] Limit order (BUY and SELL) is placed successfully
-- [x] Stop-Limit order is placed successfully
-- [x] Account balance displays correctly
-- [x] Open orders are listed properly
-- [x] Positions are displayed accurately
-- [x] Order cancellation works
-- [x] All actions are logged to file
-- [x] Invalid inputs are caught and handled gracefully
 
 ##  Dependencies
 
