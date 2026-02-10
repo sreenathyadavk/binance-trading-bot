@@ -291,11 +291,10 @@ This project includes:
 ## Author
 
 **Sreenath**  
-Email: sreenathyadavk@gmail.com  
-College: Pulla Reddy Engineering College  
+
 GitHub: [@sreenathyadavk](https://github.com/sreenathyadavk)  
 
-Applying for: Junior Python Developer – Crypto Trading Bot
+Applying for: Python Developer – Crypto Trading Bot
 
 ---
 
